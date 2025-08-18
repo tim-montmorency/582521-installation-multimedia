@@ -1,4 +1,4 @@
-# TP3 <!-- varexp:begin BLOC3 -->NOM DU BLOC 3<!-- varexp:end -->
+# TP3 <!-- varexp:begin BLOC3 -->Lumière<!-- varexp:end -->
 
 ## Description
 

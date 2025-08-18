@@ -1,0 +1,1 @@
+# Configuration appropriée, distribution fluide et optimisation adéquate de la diffusion vidéo sur surfaces architecturales

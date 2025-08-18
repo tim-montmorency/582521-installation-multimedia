@@ -1,0 +1,1 @@
+# Déploiement fiable et assemblage harmonieux de sources sonores spatialisées en contexte de diffusion multimédia.

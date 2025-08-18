@@ -1,4 +1,4 @@
-# Savoirs 1 : <!-- varexp:begin BLOC1 -->NOM DU BLOC 1<!-- varexp:end -->
+# Savoirs 1 : <!-- varexp:begin BLOC1 -->Vidéo<!-- varexp:end -->
 
 <!-- start-replace-subnav depth=1 -->
 
