@@ -8,5 +8,5 @@
 * [Emploi de protocoles pour transporter la vidéo en temps réel](/03-savoirs/01/04/)
 * [Optimisation des médias pour la projection vidéo architecturale](/03-savoirs/01/05/)
 * [Contrôle de la qualité du produit multimédia](/03-savoirs/01/06/)
-* [Présentation du produit multimédia](/03-savoirs/01/07/)
+* [Documentation du produit multimédia](/03-savoirs/01/07/)
 <!-- end-replace-subnav -->

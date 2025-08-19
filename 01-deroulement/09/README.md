@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+* Préparer un échantillon audiovisuel  
+
 ## Savoirs essentiels/Contenus
 
 * [ <!-- %: BLOC3_SAVOIR1  --># Branchement d’une installation de lumières scéniques<!-- %; -->](../../03-savoirs/03/01/README.md)
@@ -13,3 +15,4 @@
 
 ## Activités en classe
 
+* Familiaristation avec l'installation de lumières adressables 

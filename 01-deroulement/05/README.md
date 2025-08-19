@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+* Collecte d'échantillons sonore 
+
 ## Savoirs essentiels/Contenus
 
 * [ <!-- %: BLOC2_SAVOIR1  --># Branchement d’une installation spatialisant le son<!-- %; -->](../../03-savoirs/02/07/README.md)
@@ -9,3 +11,5 @@
 * [ <!-- %: BLOC2_SAVOIR3  --># Positionnement de haut-parleurs dans une installation spatialisant le son<!-- %; -->](../../03-savoirs/02/07/README.md)
 
 ## Activités en classe
+
+* Installation et calibration d'haut parleurs et de matériel audio

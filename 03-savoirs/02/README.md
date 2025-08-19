@@ -8,7 +8,6 @@
 * [Optimisation des médias pour la spatialisation sonore](/03-savoirs/02/05/)
 * [Contrôle de la qualité du produit multimédia](/03-savoirs/02/06/)
 * [Présentation du produit multimédia](/03-savoirs/02/07/)
-* [08](/03-savoirs/02/08/)
 <!-- end-replace-subnav -->
 
 

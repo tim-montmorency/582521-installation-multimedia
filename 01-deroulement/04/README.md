@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+* [Préparation TP1](../../04-evaluations/sommatives/01/)
+
 ## Savoirs essentiels/Contenus
 
 * [ <!-- %: BLOC1_SAVOIR7  --># Documentation du produit multimédia<!-- %; -->](../../03-savoirs/01/07/README.md)

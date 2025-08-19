@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+* Préparation et formatage de médias vidéo 
+
 ## Savoirs essentiels/Contenus
 
 * [ <!-- %: BLOC1_SAVOIR4  --># Emploi de protocoles pour transporter la vidéo en temps réel<!-- %; -->](../../03-savoirs/01/04/README.md)
@@ -9,3 +11,5 @@
 
 
 ## Activités en classe
+
+* Installation et calibration de projecteur vidéo 

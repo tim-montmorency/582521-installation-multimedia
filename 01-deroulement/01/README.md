@@ -10,3 +10,4 @@
 
 ## Activités en classe
 
+* Familiarisation avec le matériel de projection vidéo

@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+* Ajustements au dispositif sonore 
+
 ## Savoirs essentiels/Contenus
 
 * [ <!-- %: BLOC2_SAVOIR6  --># Contrôle de la qualité du produit multimédia<!-- %; -->](../../03-savoirs/02/07/README.md)

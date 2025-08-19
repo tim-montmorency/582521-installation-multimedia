@@ -17,5 +17,10 @@ Réaliser une installation de projection vidéo
 * [ ] Équipe
 
 
-### Savoirs essentiels, principaux critères d'évaluation
+### Savoirs essentiels
+
+[ <!-- %: BLOC_1 --> <!-- %; -->](../../../03-savoirs/01/)
+
+
+### Principaux critères d'évaluation
  

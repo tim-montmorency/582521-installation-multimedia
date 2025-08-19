@@ -1,1 +1,3 @@
-<!-- %: BLOC1_SAVOIR2  --># Intégration de médias pour la projection vidéo architecturale<!-- %; -->
+ <!-- %: BLOC4_SAVOIR2  -->
+# Optimiser l'intégration de médias pour la conception de lumière scénique
+ <!-- %; -->

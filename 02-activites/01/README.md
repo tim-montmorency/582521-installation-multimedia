@@ -7,6 +7,6 @@ Réaliser une installation de projection vidéo
 <!-- %; -->
 
 
-* [Intégrations de savoirs](../../03-savoirs/01/README.md  )
+* [Intégrations de savoirs](../../03-savoirs/01/)
 * [Évaluation formative](../../04-evaluations/formatives/01/)
 * [Évaluation sommative](../../04-evaluations/sommatives/01/)

@@ -1,1 +1,3 @@
-# <!-- %: BLOC1_SAVOIR1  --># Branchement d’une installation de projection architecturale<!-- %; -->
+<!-- %: BLOC4_SAVOIR3  -->
+# Optimiser l'intégration de médias pour la spatialisation sonore.
+<!-- %; -->
