@@ -1,8 +1,8 @@
 # EVF TP 1 : <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->
 
-<!-- %: SEANCE_EVF_1 -->
-[Séance 3](../../01-deroulement/03/)
-<!-- %; -->
+ <!-- %: SEANCE_EVF_1 -->
+[S3](../../../01-deroulement/03/)
+ <!-- %; -->
 
 
 ## Description

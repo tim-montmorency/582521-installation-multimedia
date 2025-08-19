@@ -1,8 +1,9 @@
 # EVF 4 - <!-- %: BLOC4 -->Installation multimédia<!-- %; -->
 
- <!-- %: SEANCE_EVF_4 -->
-[S7](../../01-deroulement/03/)
-<!-- %; -->
+ <!-- %: SEANCE_EFS_4 -->
+[S15](../../../01-deroulement/15/)
+
+ <!-- %; -->
 
 ## Description
 

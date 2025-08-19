@@ -1,4 +1,11 @@
 COURS 582521 Installation Multimédia
+PONDERATION 2-2-2
+HEURES_ENSEIGNEMENT 60
+SESSION 5
+DESCRIPTION_COURS L'élève réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore. Il développe sa capacité à planifier l'intégration, à traiter les médias, à valider leur qualité, à présenter le travail et à l'archiver.  Au terme de ce cours, l'élève peut intégrer et optimiser les médias pour la diffusion à grande échelle à l'aide d'un dispositif sur mesure.
+OBJECTIF_INTEGRATEUR Réaliser une installation multimédia à grande échelle
+COMPETENCE_MINISTERIELLE_1  Optimiser les médias en fonction de la diffusion (éléments 1 à 6).
+COMPETENCE_MINISTERIELLE_2  Intégrer des médias pour la diffusion sur support (éléments 5 à 9).
 S1 2025/08/25
 S2 2025/09/01
 S3 2025/09/08
@@ -17,23 +24,23 @@ S15 2025/12/08
 PONDERATION_EVS_1 15%
 BLOC1 Projection vidéo architecturale
 DESCRIPTION_EVS_1 Réaliser une installation de projection vidéo
-SEANCE_EVF_1 [Séance 3](../../01-deroulement/03/)
-SEANCE_EVS_1 [Séance 4](../../01-deroulement/04/)
+SEANCE_EVF_1 [S3](../../../01-deroulement/03/)
+SEANCE_EVS_1 [S4](../../../01-deroulement/04/)
 BLOC2 Diffusion audio spatialisée
 DESCRIPTION_EVS_2 Réaliser une installation audiovisuelle
 PONDERATION_EVS_2 20%
-SEANCE_EVF_2 [Séance 7](../../01-deroulement/07/)
-SEANCE_EVS_2 [Séance 8](../../01-deroulement/08/)
+SEANCE_EVF_2 [S7](../../../01-deroulement/07/)
+SEANCE_EVS_2 [S8](../../../01-deroulement/08/)
 BLOC3 Installation lumières adressables
 DESCRIPTION_EVS_3 Réaliser une installation de lumières adressables
 PONDERATION_EVS_3 25%
-SEANCE_EVF_3 [Séance 10](../../01-deroulement/10/)
-SEANCE_EVS_3 [Séance 11](../../01-deroulement/11/)
+SEANCE_EVF_3 [S10](../../../01-deroulement/10/)
+SEANCE_EVS_3 [S11](../../../01-deroulement/11/)
 BLOC4 Installation multimédia 
 DESCRIPTION_EVS_4 Réaliser une installation multimédia à grande échelle sur mesure.
 PONDERATION_EVS_4 40%
-SEANCE_EVF_4 [Séance 14](../../01-deroulement/14/)
-SEANCE_EVS_4 [Séance 15](../../01-deroulement/15/)
+SEANCE_EVF_4 [S14](../../../01-deroulement/14/)
+SEANCE_EVS_4 [S15](../../../01-deroulement/15/)
 BLOC1_SAVOIR1 # Branchement d’une installation de projection architecturale
 BLOC1_SAVOIR2 # Intégration de médias pour la projection vidéo architecturale
 BLOC1_SAVOIR3 # Logiciels d'intégration multimédia spécialisés en projection architecturale

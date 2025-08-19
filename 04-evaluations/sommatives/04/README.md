@@ -1,8 +1,8 @@
 # EVS 4 projet : <!-- %: BLOC4 -->Installation multimédia<!-- %; -->
 
- <!-- %: SEANCE_EVS_1 -->
-[S7](../../01-deroulement/04/)
-<!-- %; -->
+ <!-- %: SEANCE_EVS_4 -->
+[S15](../../../01-deroulement/15/)
+ <!-- %; -->
 
 ##  <!-- %: PONDERATION_EVS_4 -->40%<!-- %; -->
 

@@ -1,8 +1,7 @@
 # EVS TP1 : <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->
 
- <!-- %: SEANCE_EVS_1 -->
-[S7](../../01-deroulement/03/)
-<!-- %; -->
+
+ <!-- %: SEANCE_EVS_1 -->[S4](../../../01-deroulement/04/)<!-- %; -->
 
 ##  <!-- %: PONDERATION_EVS_1 -->15%<!-- %; -->
 

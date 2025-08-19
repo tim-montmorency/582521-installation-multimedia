@@ -1,14 +1,25 @@
 # <!-- %: COURS  -->582521 Installation Multimédia<!-- %; -->
 
+--- 
+* Pondérations: <!-- %: PONDERATION  -->2-2-2<!-- %; -->
+* Heures d'enseigment: <!-- %: HEURES_ENSEIGNEMENT  -->60<!-- %; -->
+* Description du cours:  
+    * <!-- %: DESCRIPTION_COURS  -->L'élève réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore. Il développe sa capacité à planifier l'intégration, à traiter les médias, à valider leur qualité, à présenter le travail et à l'archiver.  Au terme de ce cours, l'élève peut intégrer et optimiser les médias pour la diffusion à grande échelle à l'aide d'un dispositif sur mesure.<!-- %; -->
+* Objectif intégrateur: 
+    * <!-- %: OBJECTIF_INTEGRATEUR -->Réaliser une installation multimédia à grande échelle<!-- %; -->
+* Compétences ministériels : 
+    * <!-- %: COMPETENCE_MINISTERIELLE_1 -->Optimiser les médias en fonction de la diffusion (éléments 1 à 6).<!-- %; -->
+    * <!-- %: COMPETENCE_MINISTERIELLE_2 -->Intégrer des médias pour la diffusion sur support (éléments 5 à 9).<!-- %; -->
+---
 
 <!-- start-replace-subnav -->
 * [Déroulement](/01-deroulement/)
     * [S1 : <!-- %: S1 -->2025/08/25<!-- %; -->](/01-deroulement/01/)
-    * [S2 :<!-- %: S2 -->2025/09/01<!-- %; -->](/01-deroulement/02/)
+    * [S2 : <!-- %: S2 -->2025/09/01<!-- %; -->](/01-deroulement/02/)
     * [S3 : <!-- %: S3 -->2025/09/08<!-- %; -->](/01-deroulement/03/)
     * [S4 : <!-- %: S4 -->2025/09/15<!-- %; -->](/01-deroulement/04/)
-    * [S5 :<!-- %: S5 -->2025/09/22<!-- %; -->](/01-deroulement/05/)
-    * [S6 :<!-- %: S6 -->2025/09/29<!-- %; -->](/01-deroulement/06/)
+    * [S5 : <!-- %: S5 -->2025/09/22<!-- %; -->](/01-deroulement/05/)
+    * [S6 : <!-- %: S6 -->2025/09/29<!-- %; -->](/01-deroulement/06/)
     * [S7 : <!-- %: S7 -->2025/10/06<!-- %; -->](/01-deroulement/07/)
     * [S8 : <!-- %: S8 -->2025/10/20<!-- %; -->](/01-deroulement/08/)
     * [S9 : <!-- %: S9 -->2025/10/27<!-- %; -->](/01-deroulement/09/)
@@ -16,8 +27,8 @@
     * [S11 : <!-- %: S11 -->2025/11/10<!-- %; -->](/01-deroulement/11/)
     * [S12 : <!-- %: S12 -->2025/11/17<!-- %; -->](/01-deroulement/12/)
     * [S13 : <!-- %: S13 -->2025/11/24<!-- %; -->](/01-deroulement/13/)
-    * [S14 :<!-- %: S14 -->2025/12/01<!-- %; -->](/01-deroulement/14/)
-    * [S15 :<!-- %: S15 -->2025/12/08<!-- %; -->](/01-deroulement/15/)
+    * [S14 : <!-- %: S14 -->2025/12/01<!-- %; -->](/01-deroulement/14/)
+    * [S15 : <!-- %: S15 -->2025/12/08<!-- %; -->](/01-deroulement/15/)
 * [Activités ](/02-activites/)
     * [TP1 <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->](/02-activites/01/)
     * [TP2 <!-- %: BLOC2 -->Diffusion audio spatialisée<!-- %; -->](/02-activites/02/)

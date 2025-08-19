@@ -1,8 +1,8 @@
 # EVF TP 2 : <!-- %: BLOC2 -->Diffusion audio spatialisée<!-- %; -->
 
-<!-- %: SEANCE_EVF_2 -->
-[Séance 7](../../01-deroulement/07/)
-<!-- %; -->
+ <!-- %: SEANCE_EVF_2 -->
+[S7](../../../01-deroulement/07/)
+ <!-- %; -->
 
 ## Description
 

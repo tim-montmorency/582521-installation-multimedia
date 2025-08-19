@@ -11,4 +11,3 @@
 * [ EVS1 <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->](../../04-evaluations/sommatives/01/)
 
 
-%: 
