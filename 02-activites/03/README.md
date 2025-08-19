@@ -1,6 +1,10 @@
-# TP3 <!-- varexp:begin BLOC3 -->Lumière<!-- varexp:end -->
+# TP3 <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->
 
 ## Description
+
+<!-- %: DESCRIPTION_EVS_3 -->
+Réaliser une installation de lumières adressables
+<!-- %; -->
 
 
 * [Intégrations de savoirs](../../03-savoirs/03/ )

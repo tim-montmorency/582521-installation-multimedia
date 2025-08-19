@@ -1,17 +1,17 @@
-# EVS 4 projet : <!-- varexp:begin BLOC4 -->Multimédia<!-- varexp:end -->
+# EVS 4 projet : <!-- %: BLOC4 -->Installation multimédia<!-- %; -->
 
- <!-- varexp:begin SEANCE_EVS_1 -->
+ <!-- %: SEANCE_EVS_1 -->
 [S7](../../01-deroulement/04/)
-<!-- varexp:end -->
+<!-- %; -->
 
-##  <!-- varexp:begin PONDERATION_EVS_4 -->40%<!-- varexp:end -->
+##  <!-- %: PONDERATION_EVS_4 -->40%<!-- %; -->
 
 
 ### Description
 
-<!-- varexp:begin DESCRIPTION_EVS_4  -->
+<!-- %: DESCRIPTION_EVS_4  -->
 Réaliser une installation multimédia à grande échelle sur mesure.
-<!-- varexp:end -->
+<!-- %; -->
 
 #### Forme de l'évaluation
 

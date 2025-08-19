@@ -1,17 +1,17 @@
-# EVS TP3 :<!-- varexp:begin BLOC3 -->Lumière<!-- varexp:end -->
+# EVS TP3 :<!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->
 
- <!-- varexp:begin SEANCE_EVS_3 -->
+ <!-- %: SEANCE_EVS_3 -->
 [S7](../../01-deroulement/03/)
-<!-- varexp:end -->
+<!-- %; -->
 
-## <!-- varexp:begin PONDERATION_EVS_3 -->25%<!-- varexp:end -->
+## <!-- %: PONDERATION_EVS_3 -->25%<!-- %; -->
 
 
 ### Description
 
-<!-- varexp:begin DESCRIPTION_EVS_3  -->
-Réaliser une installation lumières
-<!-- varexp:end -->
+<!-- %: DESCRIPTION_EVS_3  -->
+Réaliser une installation de lumières adressables
+<!-- %; -->
 
 #### Forme de l'évaluation
 

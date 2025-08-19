@@ -1,7 +1,12 @@
-# S3 : <!-- varexp:begin S3 -->2025/09/08<!-- varexp:end -->
+# S3 : <!-- %: S3 -->2025/09/08<!-- %; -->
 
 ## À préparer avant la classe
 
 ## Savoirs essentiels/Contenus
 
+* [ <!-- %: BLOC1_SAVOIR6  --># Contrôle de la qualité du produit multimédia<!-- %; -->](../../03-savoirs/01/06/README.md)
+
 ## Activités en classe
+
+* [ EVF1 <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->](../../04-evaluations/formatives/01/)
+

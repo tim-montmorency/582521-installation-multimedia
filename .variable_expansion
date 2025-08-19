@@ -14,23 +14,45 @@ S12 2025/11/17
 S13 2025/11/24
 S14 2025/12/01
 S15 2025/12/08
-BLOC1 Vidéo
-BLOC2 Audio
-BLOC3 Lumière
-BLOC4 Multimédia
-SEANCE_EVF_1 [Séance 3](../../01-deroulement/03/)
-SEANCE_EVF_2 [Séance 7](../../01-deroulement/07/)
-SEANCE_EVF_3 [Séance 10](../../01-deroulement/10/)
-SEANCE_EVF_4 [Séance 14](../../01-deroulement/04/)
-SEANCE_EVS_1 [Séance 4](../../01-deroulement/04/)
-SEANCE_EVS_2 [Séance 8](../../01-deroulement/08/)
-SEANCE_EVS_3 [Séance 11](../../01-deroulement/11/)
-SEANCE_EVS_4 [Séance 15](../../01-deroulement/15/)
 PONDERATION_EVS_1 15%
-PONDERATION_EVS_2 20%
-PONDERATION_EVS_3 25%
-PONDERATION_EVS_4 40%
+BLOC1 Projection vidéo architecturale
 DESCRIPTION_EVS_1 Réaliser une installation de projection vidéo
+SEANCE_EVF_1 [Séance 3](../../01-deroulement/03/)
+SEANCE_EVS_1 [Séance 4](../../01-deroulement/04/)
+BLOC2 Diffusion audio spatialisée
 DESCRIPTION_EVS_2 Réaliser une installation audiovisuelle
-DESCRIPTION_EVS_3 Réaliser une installation lumières
+PONDERATION_EVS_2 20%
+SEANCE_EVF_2 [Séance 7](../../01-deroulement/07/)
+SEANCE_EVS_2 [Séance 8](../../01-deroulement/08/)
+BLOC3 Installation lumières adressables
+DESCRIPTION_EVS_3 Réaliser une installation de lumières adressables
+PONDERATION_EVS_3 25%
+SEANCE_EVF_3 [Séance 10](../../01-deroulement/10/)
+SEANCE_EVS_3 [Séance 11](../../01-deroulement/11/)
+BLOC4 Installation multimédia 
 DESCRIPTION_EVS_4 Réaliser une installation multimédia à grande échelle sur mesure.
+PONDERATION_EVS_4 40%
+SEANCE_EVF_4 [Séance 14](../../01-deroulement/14/)
+SEANCE_EVS_4 [Séance 15](../../01-deroulement/15/)
+BLOC1_SAVOIR1 # Branchement d’une installation de projection architecturale
+BLOC1_SAVOIR2 # Intégration de médias pour la projection vidéo architecturale
+BLOC1_SAVOIR3 # Logiciels d'intégration multimédia spécialisés en projection architecturale
+BLOC1_SAVOIR4 # Emploi de protocoles pour transporter la vidéo en temps réel
+BLOC1_SAVOIR5 # Optimisation des médias pour la projection vidéo architecturale
+BLOC1_SAVOIR6 # Contrôle de la qualité du produit multimédia
+BLOC1_SAVOIR7 # Documentation du produit multimédia
+BLOC2_SAVOIR1 # Branchement d’une installation spatialisant le son
+BLOC2_SAVOIR2 # Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)
+BLOC2_SAVOIR3 # Positionnement de haut-parleurs dans une installation spatialisant le son
+BLOC2_SAVOIR4 # Intégration des médias pour la spatialisation sonore
+BLOC2_SAVOIR5 # Optimisation des médias pour la spatialisation sonore
+BLOC2_SAVOIR6 # Contrôle de la qualité du produit multimédia
+BLOC2_SAVOIR7 # Présentation du produit multimédia
+BLOC3_SAVOIR1 # Branchement d’une installation de lumières scéniques
+BLOC3_SAVOIR2 # Emploi des protocoles de communication pour lumières scéniques
+BLOC3_SAVOIR3 # Manipulation des intensités lumineuses grâce à un logiciel d'intégration multimédia
+BLOC3_SAVOIR4 # Réalisation d’une composition de lumières scéniques
+BLOC3_SAVOIR5 # Intégration des médias pour une composition de lumières scéniques
+BLOC3_SAVOIR6 # Optimisation des médias pour une composition de lumières scéniques
+BLOC3_SAVOIR7 # Contrôle de la qualité du produit multimédia
+BLOC3_SAVOIR8 # Archivage du produit multimédia

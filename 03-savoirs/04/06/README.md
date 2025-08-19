@@ -1,0 +1,1 @@
+<!-- %: BLOC1_SAVOIR2  --># Intégration de médias pour la projection vidéo architecturale<!-- %; -->

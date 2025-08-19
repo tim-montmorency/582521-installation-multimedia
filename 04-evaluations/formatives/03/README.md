@@ -1,13 +1,13 @@
-# EVF TP 3 - <!-- varexp:begin BLOC3 -->Lumière<!-- varexp:end -->
+# EVF TP 3 - <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->
 
- <!-- varexp:begin SEANCE_EVF_3 -->
+ <!-- %: SEANCE_EVF_3 -->
 [S7](../../01-deroulement/03/)
-<!-- varexp:end -->
+<!-- %; -->
 ## Description
 
-<!-- varexp:begin DESCRIPTION_EVS_3  -->
-Réaliser une installation lumières
-<!-- varexp:end -->
+<!-- %: DESCRIPTION_EVS_3  -->
+Réaliser une installation de lumières adressables
+<!-- %; -->
 
 ### Forme de l'évaluation
 

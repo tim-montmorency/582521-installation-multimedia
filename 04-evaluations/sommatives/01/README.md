@@ -1,16 +1,16 @@
-# EVS TP1 : <!-- varexp:begin BLOC1 -->Vidéo<!-- varexp:end -->
+# EVS TP1 : <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->
 
- <!-- varexp:begin SEANCE_EVS_1 -->
+ <!-- %: SEANCE_EVS_1 -->
 [S7](../../01-deroulement/03/)
-<!-- varexp:end -->
+<!-- %; -->
 
-##  <!-- varexp:begin PONDERATION_EVS_1 -->15%<!-- varexp:end -->
+##  <!-- %: PONDERATION_EVS_1 -->15%<!-- %; -->
 
 ### Description
 
-<!-- varexp:begin DESCRIPTION_EVS_1  -->
+<!-- %: DESCRIPTION_EVS_1  -->
 Réaliser une installation de projection vidéo
-<!-- varexp:end -->
+<!-- %; -->
 
 #### Forme de l'évaluation
 

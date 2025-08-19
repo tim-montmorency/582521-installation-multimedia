@@ -1,15 +1,15 @@
-# EVF TP 1 : <!-- varexp:begin BLOC1 -->Vidéo<!-- varexp:end -->
+# EVF TP 1 : <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->
 
-<!-- varexp:begin SEANCE_EVF_1 -->
+<!-- %: SEANCE_EVF_1 -->
 [Séance 3](../../01-deroulement/03/)
-<!-- varexp:end -->
+<!-- %; -->
 
 
 ## Description
 
-<!-- varexp:begin DESCRIPTION_EVS_1  -->
+<!-- %: DESCRIPTION_EVS_1  -->
 Réaliser une installation de projection vidéo
-<!-- varexp:end -->
+<!-- %; -->
 
 ### Forme de l'évaluation
 
