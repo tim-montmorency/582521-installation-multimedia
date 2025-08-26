@@ -91,26 +91,4 @@ Outils gratuits, open-source ou avec version gratuite pertinente pour prototypag
 	- Cas d'usage : mapping interactif, visuels génératifs, prototypes.
 
 
-## Conseils de choix
 
-- Pour diffusion fiable et longue durée : privilégier Dataton Watchout, Green Hippo ou Pandora's Box.
-- Pour création temps réel et interaction : TouchDesigner ou Notch.
-- Pour déploiement rapide et facile : MadMapper ou Resolume (pour le live).
-- Toujours valider la compatibilité codec/resolution avec le hardware (GPU, outputs, media server) et prévoir versions de secours (DXV / ProRes / H264 selon usage).
-
-
-## Récapitulatif — Liens officiels et prix approximatifs (CAD)
-
-| Logiciel | Lien officiel | Licence | Prix approximatif (CAD) | Remarque |
-|---|---|---:|---:|---|
-| Resolume Arena | https://resolume.com/ | Commercial | ~CA$1,160 | Arena €799 (est. conversion)
-| Dataton Watchout | https://dataton.com/ | Commercial | Sur demande | Devis via distributeur
-| Green Hippo (Hippotizer) | https://www.green-hippo.com/ | Commercial (HW+SW) | Sur devis | Solutions hardware/logiciel — contacter revendeurs
-| MadMapper | https://madmapper.com/ | Commercial | Voir boutique | Prix variables selon extensions
-| Millumin | https://millumin.com/ | Commercial | Location dès ~CA$53, Licence permanente ~CA$674 | Location / achat (US$39 / US$499)
-| Notch | https://www.notch.one/ | Commercial (abonnement) | Indie ~CA$404/yr, VFX ~CA$1,713/yr | Exemples de plans annuels
-| Pandora's Box (Christie) | https://www.christiedigital.com/ | Commercial | Sur devis | Solutions professionnelles — contact Christie
-| QLab | https://qlab.app/ | Freemium / Commercial | Gratuit de base ; options payantes | Licences et packs disponibles
-| OBS Studio | https://obsproject.com/ | Open-source | Gratuit | Streaming / capture / monitoring
-| VPT (Video Projection Tool) | https://hcgilje.wordpress.com/vpt/ | Open / Gratuit | Gratuit | Outil léger pour prototypage
-| TouchDesigner | https://derivative.ca/ | Freemium / Commercial | Version non-commerciale gratuite ; licences commerciales sur demande | Version gratuite limitée pour usages non-commerciaux

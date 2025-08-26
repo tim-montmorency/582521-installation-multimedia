@@ -2,6 +2,7 @@
 
 
  <!-- %: SEANCE_EVS_1 -->[S4](../../../01-deroulement/04/)<!-- %; -->
+ 
 
 ##  <!-- %: PONDERATION_EVS_1 -->15%<!-- %; -->
 
@@ -13,7 +14,7 @@ Réaliser une installation de projection vidéo
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
+* [x] Individuel
 * [ ] Équipe
 
 

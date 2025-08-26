@@ -3,8 +3,6 @@
 <!-- %; -->
 
 
-
-
 <!-- start-replace-subnav -->
 
 <!-- end-replace-subnav -->
@@ -22,6 +20,8 @@
 3. Choisir les formats et codecs
 	- Utiliser des formats standard (MP4 H.264/H.265, ProRes pour master) et un profil couleur sRGB ou Rec.709 selon la chaîne.
 	- Préparer plusieurs résolutions : master haute résolution (pour recadrage/warping) et fichiers optimisés pour la diffusion.
+    - Créer des médias correspondants aux fichiers finaux
+        -via FFMPEG: ex: https://codeberg.org/gllm/ffmpeg-create-test-media    
 
 4. Respecter l'aspect et la géométrie
 	- Travailler avec des repères métriques dans le contenu (grilles, marques) pour faciliter le calage.
@@ -46,3 +46,7 @@
 - Prévoir une solution de secours (fichiers compressés, clé USB, second serveur).
 - Respecter les droits d'auteur et obtenir les licences nécessaires pour les médias utilisés.
 
+
+## Cas pratique
+
+* [Projection sur la place bell](../../../02-activites/projection-halloween/place-bell/)

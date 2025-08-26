@@ -15,7 +15,7 @@ Réaliser une installation audiovisuelle
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
+* [x] Individuel
 * [ ] Équipe
 
 

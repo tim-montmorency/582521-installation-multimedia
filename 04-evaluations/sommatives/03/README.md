@@ -16,7 +16,7 @@ Réaliser une installation de lumières adressables
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
+* [x] Individuel
 * [ ] Équipe
 
 

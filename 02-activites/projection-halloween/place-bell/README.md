@@ -1,6 +1,6 @@
 ## Place Bell
 
-![](./VDL_Projection%20Place%20Bell.svg)
+![Plantation](./VDL_Projection%20Place%20Bell.svg)
 
 ### Projecteurs
 
@@ -37,8 +37,20 @@
 - Resolution : 4280X1600
 - Framerate : 30 fps préféré
 - Nomenclature des fichiers : TBD selon les besoins du show
-- Templates et Zones à respecter :
 
 
+### Audio et vidéo syncrone 
+
+* Via lecteur HTML sur téléphone
+* Sources 
+    * https://sr-expo.gitlab.io/netart/archipels/
+    * https://gitlab.com/sr-expo/netart/utc-audio-player
+
+
+### Gabarit
+
+![Gabarit 4280x1600](./INIT_Place%20Bell_4280x1600_small_grid.png)
+
+![Zone de projection](./INIT_Place%20Bell_4280x1600_bleed.png)
 
 

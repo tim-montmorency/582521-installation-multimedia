@@ -15,8 +15,8 @@ Réaliser une installation multimédia à grande échelle sur mesure.
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
-* [ ] Équipe
+* [x] Individuel
+* [x] Équipe
 
 ### Savoirs essentiels
 
