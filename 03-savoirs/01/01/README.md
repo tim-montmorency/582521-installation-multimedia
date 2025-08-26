@@ -13,9 +13,11 @@
 ```mermaid
 graph LR
 	Power_A(Électricité)
+    Internet
 
     subgraph Chariot
     	PC[Ordinateur]
+        Internet --> PC
         PC -- HDMI --> Transmitter[Transmeteur Cat6] 
         Monitor[Moniteur de contrôle]
         PC -->|Display Port | Monitor
@@ -31,6 +33,7 @@ graph LR
     	Power_B --> Projector
         Power_B --ac/dc--> Receiver
         Transmitter --Câble Ethernet--> Receiver[Recepteur Cat6]  -- HDMI --> Projector
+        Internet --> Projector
     end
 
 
