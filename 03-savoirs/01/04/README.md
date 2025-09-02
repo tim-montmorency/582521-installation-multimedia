@@ -6,6 +6,27 @@
 
 <!-- end-replace-subnav -->
 
+## Distribution inter-applications
+
+De logiciel à logiciel, depuis la même carte graphique
+
+* **Latence** : quasi nulle (< 5 ms)
+* **Compression** : aucune
+* **Altération** : aucune
+
+
+* **[Spout](https://spout.zeal.co/)** (Windows)
+  * TouchDesigner https://docs.derivative.ca/Syphon_Spout_Out_TOP
+  * OBS https://github.com/Off-World-Live/obs-spout2-plugin
+  * Unity https://github.com/keijiro/KlakSpout/
+  * Godot https://github.com/you-win/spout-gd
+
+* **[Syphon](http://syphon.v002.info/)** (macOS)
+
+* **[PipeWire](https://pipewire.org/)** / **[DMA-BUF](https://www.kernel.org/doc/html/latest/driver-api/dma-buf.html)** (Linux)
+
+
+
 ## Distribution point-à-point 
 
 ### Grand public 
@@ -141,33 +162,13 @@ distribution, multiprojection, synchronisation à grande échelle
 * Implementation: https://vdo.ninja/
 
 
-
 ### SRT / RIST (transport résilient, ouvert ou open source)
 
 * **SRT** : protocole open‑source (Haivision) pour transport vidéo fiable et sécurisé sur réseaux Internet non fiables (correction d'erreurs, chiffrement optionnel).
 * **RIST** : initiative ouverte fournissant un transport fiable similaire, ciblant l'interopérabilité et la simplicité.
 * **Usage** : contribution entre sites, backhaul sur Internet là où UDP seul est trop instable.
 
-### Formats ISO et formats libres / ouverts — pourquoi les privilégier
-
-* **Formats ISO** : MPEG‑DASH, CMAF, MP4 (ISOBMFF), MPEG‑TS sont des standards normalisés (ISO) — ils offrent interopérabilité, pérennité et meilleure compatibilité avec CDN, middleware et équipements professionnels.
-* **Formats et codecs libres/ouverts** : WebM, Matroska, codecs AV1, VP9, Opus — réduisent la dépendance aux licences propriétaires, encouragent l'innovation et facilitent l'intégration dans des chaînes libres.
-* **Recommandation pratique** : pour la distribution internet et la conservation/archivage, privilégier des workflows basés sur des standards ISO (CMAF/MPEG‑DASH, MP4) et, si possible, des codecs ouverts (AV1/VP9/Opus) pour l'avenir et la portabilité. Pour contribution ou diffusion pro en direct, utiliser SMPTE ST 2110 ou SDVoE selon l'infrastructure; pour transport via réseaux publics, combiner SRT/RIST avec des conteneurs/segments conformes (MPEG‑TS, CMAF) pour robustesse et compatibilité.
-
-
 ---
-
-### Références normatives (ISO / ITU)
-
-Voici les références officielles pour les standards ISO cités ci‑dessus :
-
-- MPEG‑DASH — ISO/IEC 23009‑1:2022 — https://www.iso.org/standard/83314.html
-- ISO Base Media File Format (ISOBMFF / MP4) — ISO/IEC 14496‑12:2022 — https://www.iso.org/standard/83102.html
-- MPEG Transport Stream (MPEG‑TS) — ISO/IEC 13818‑1 (MPEG‑2 Systems); version accessible via l'ITU: https://www.itu.int/rec/T-REC-H.222.0-202308-S/en
-- CMAF (Common Media Application Format) — ISO/IEC 23000‑19:2024 — https://www.iso.org/search.html?q=23000-19
-
-Note : SMPTE ST 2110 est une norme SMPTE (broadcast IP) et non une norme ISO; consulter la documentation SMPTE pour les versions et profils officiels.
-
 
 ## Règles de pouce (projection architecturale)
 
@@ -179,10 +180,24 @@ Note : SMPTE ST 2110 est une norme SMPTE (broadcast IP) et non une norme ISO; co
 
 ---
 
-## Mini-lexique câbles & connecteurs
 
-* **HDMI Type-A** : grand public/pro (cuivre, AOC).
-* **DisplayPort** : PC/médiserveurs (cuivre, AOC).
-* **BNC 75 Ω** : SDI sur coax.
-* **RJ45 (Cat x)** : HDBaseT / AV-over-IP.
-* **LC (fibre)** : petits modules optiques (multimode/monomode).
+
+
+Parfait 👍 Voici la version **synthétique avec liens officiels** (la première fois que chaque technologie est mentionnée) :
+
+---
+
+## ⚖️ Comparatif partage de textures vidéo 
+
+| Contexte     | Protocoles    | Latence    | Compression | Altération |
+| ------------ | ------------- | ---------- | ----------- | ---------- |
+| **Local**    | Syphon, Spout | < 5 ms     | Aucune      | Nulle      |
+| **LAN**      | NDI           | 16–40 ms   | Légère      | Faible     |
+|              | SMPTE 2110    | < 1f       | Nulle/XS    | Nulle      |
+|              | RTSP          | 200–500 ms | Forte       | Moyenne    |
+| **Internet** | WebRTC        | 100–400 ms | Moyenne     | Moyenne    |
+|              | SRT           | 200 ms–2s  | Variable    | Variable   |
+|              | RTMP          | 2–5 s      | Forte       | Moyenne    |
+|              | HLS/DASH      | 10–30 s    | Forte       | Moyenne+   |
+
+---
