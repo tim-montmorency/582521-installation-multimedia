@@ -87,6 +87,12 @@ graph LR
 ```
 
 
+## Edge-Blending deux projecteur
+
+* Théorie https://paulbourke.net/miscellaneous/edgeblend/
+* Implémentation dans touchdesigner https://derivative.ca/UserGuide/Palette:projectorBlend
+
+
 
 
 
