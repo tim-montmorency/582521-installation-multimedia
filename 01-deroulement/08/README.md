@@ -6,7 +6,7 @@
 
 ## Savoirs essentiels/Contenus
 
-* [ <!-- %: BLOC2_SAVOIR7  --># Présentation du produit multimédia<!-- %; -->](../../03-savoirs/02/07/README.md)
+* [ <!-- %: BLOC2_SAVOIR7  --># Présentation du produit multimédia<!-- %; -->](../../03-savoirs/02/07/)
 
 ## Activités en classe
 

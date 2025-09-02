@@ -7,14 +7,13 @@
 <!-- end-replace-subnav -->
 
 
-
 ## 0) Outils utiles
 
 Mètre laser, niveau à bulle, laser d’alignement, pieds/rigging certifiés, multiprise/UPS, luxmètre, ordinateur avec **mires** (grille, zones, PLUGE, rampes), chiffons/air duster, gaffer.
 
 ---
 
-## 1) Paramètres physiques (d’abord)
+## 1 Paramètres physiques (d’abord)
 
 ### 1.1 Relevé du site
 
@@ -54,7 +53,7 @@ Mètre laser, niveau à bulle, laser d’alignement, pieds/rigging certifiés, m
 ### 1.7 Câblage (règles simples)
 
 * **≤ 10–15 m** : HDMI/DP cuivre de qualité.
-* **Jusqu’à 100 m** : **HDBaseT** (Cat 6a) ou **SDI** (coax 75 Ω).
+* **Jusqu’à 100 m** : **HDBaseT** ou **Extendeur** (Cat 6a) ou **SDI** (coax 75 Ω).
 * **> 100 m / EMI** : **fibre** (HDMI/SDI/DP optique).
 * Évitez les boucles de masse, séparez puissance/vidéo, utilisez des cordons testés.
 

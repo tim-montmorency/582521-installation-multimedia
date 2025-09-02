@@ -6,7 +6,7 @@
 
 ## Savoirs essentiels/Contenus
 
-* [ <!-- %: BLOC1_SAVOIR6  --># Contrôle de la qualité du produit multimédia<!-- %; -->](../../03-savoirs/01/06/README.md)
+* [ <!-- %: BLOC1_SAVOIR6  --># Contrôle de la qualité du produit multimédia<!-- %; -->](../../03-savoirs/01/06/)
 
 ## Activités en classe
 

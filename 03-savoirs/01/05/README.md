@@ -13,6 +13,14 @@ Obtenir une image **stable, lisible et synchronisée** sur de grandes surfaces, 
 
 ---
 
+## Générer des médias compatible
+
+* Mire PNG https://vioso.com/testpattern-generator/
+* Timecode Audio (LTC) https://elteesee.pehrhovey.net/
+* Générer des médias test via ffmpeg https://codeberg.org/gllm/ffmpeg-create-test-media
+
+---
+
 ## Résolution, fréquence, cadrage
 
 
@@ -37,7 +45,7 @@ Obtenir une image **stable, lisible et synchronisée** sur de grandes surfaces, 
 
 | Cas d’usage                           | Recommandé                | Pourquoi                                          | À noter                              |
 | ------------------------------------- | ------------------------- | ------------------------------------------------- | ------------------------------------ |
-| macOS / Apple M-series                | **ProRes 422 HQ** (MOV)   | Qualité, décodage matériel fluide                 | Poids élevé → SSD rapide             |
+| macOS / Apple M-series                | **ProRes 422** (MOV)   | Qualité, décodage matériel fluide                 | Poids élevé → SSD rapide             |
 | Windows/NVIDIA/Resolume/TouchDesigner | **HAP Q** (MOV)           | Très fluide via GPU, parfait pour loops & couches | Fichiers volumineux                  |
 | Cross-platform qualité/poids          | **DNxHR HQX** (MXF/MOV)   | 10 bits, intra                                    | Support variable selon players       |
 | Simple & léger (non critique)         | **H.264 All-Intra** (MP4) | Bonne compatibilité                               | Éviter GOP longs/variable frame rate |
@@ -89,4 +97,5 @@ Obtenir une image **stable, lisible et synchronisée** sur de grandes surfaces, 
 * [ ] **Débit disque** suffisant pour le nombre de flux
 * [ ] **Sync** testée (genlock/PTP/LTC/OSC) + pré-roll
 * [ ] Nom de fichier & **README** complets
+
 

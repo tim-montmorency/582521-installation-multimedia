@@ -53,4 +53,5 @@
 
 ![Zone de projection](./INIT_Place%20Bell_4280x1600_bleed.png)
 
+![Gabarit Mapping Projection](./2x2560_X%20_600_840%20overlap_4280x1600.png)
 

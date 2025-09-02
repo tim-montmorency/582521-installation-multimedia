@@ -25,6 +25,8 @@
 
 4. Respecter l'aspect et la géométrie
 	- Travailler avec des repères métriques dans le contenu (grilles, marques) pour faciliter le calage.
+	- Utiliser des images comme mires avec les résolution des formats de sorties
+		-  En générer : https://vioso.com/testpattern-generator/
 	- Prévoir masques et alpha pour éléments qui doivent s'aligner sur des volumes spécifiques.
 
 5. Test, correction géométrique et colorimétrique
