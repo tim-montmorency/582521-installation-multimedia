@@ -4,9 +4,13 @@
 
 
 <!-- start-replace-subnav -->
-* [Epson PowerLite 535W (grand angle)](/03-savoirs/01/01/EPSON_PowerLite_535W/)
-* [Epson PowerLite 700U (Ultra grand angle)](/03-savoirs/01/01/EPSON_PowerLite_700U/)
-* [Epson PowerLite 990U (Téléphoto)](/03-savoirs/01/01/EPSON_PowerLite_990U/)
+* [Implementation mapping](/03-savoirs/01/01/mapping/)
+    * [OBS ](/03-savoirs/01/01/mapping/OBS/)
+    * [Mapping dans touchdesigner](/03-savoirs/01/01/mapping/touchdesigner/)
+* [Projecteurs](/03-savoirs/01/01/projecteurs/)
+    * [Epson PowerLite 535W (grand angle)](/03-savoirs/01/01/projecteurs/EPSON_PowerLite_535W/)
+    * [Epson PowerLite 700U (Ultra grand angle)](/03-savoirs/01/01/projecteurs/EPSON_PowerLite_700U/)
+    * [Epson PowerLite 990U (Téléphoto)](/03-savoirs/01/01/projecteurs/EPSON_PowerLite_990U/)
 <!-- end-replace-subnav -->
 
 
@@ -179,42 +183,7 @@ https://paulbourke.net/miscellaneous/edgeblend/
 * [ ] **Fondu p≈2**, **gamma-corrigé par canal (G≈2,2)**
 * [ ] Vérif **rampes + mouvement** → couture **invisible** ✅
 
-C’est tout : un bon **montage physique** fait 80 % du travail, le **blending gamma-corrigé** finit le job.
-
-
-
-### Implémentation 
-
-#### TouchDesigner
-
-* Pallette/Mapping/projectorBlend
-
-* Documentation : https://derivative.ca/UserGuide/Palette:projectorBlend
-
-dans la version gratuite la résolution est limité à 1280 pixel de large.
-
-* ![alt text](image.png)
-* ![alt text](image-1.png)
-* ![alt text](image-2.png)
-
-
-#### OBS 
-
-* Edge-blending et cornerpin via LUA
-
-[projection mapping Lua script](https://codeberg.org/gllm/obs-lua-projection-mapping) 
-
-Installer via tool->Script  
-
-
-
-* OBS spout 
-
-Si vous voulez travailler avec spout, installez le plugin suivant : 
-
-https://github.com/Off-World-Live/obs-spout2-plugin
-
-
+C’est tout : un bon **montage physique** fait 80 % du travail, le **blending gamma-corrigé** finit le travail.
 
 
 
