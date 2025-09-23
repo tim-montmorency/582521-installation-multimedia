@@ -7,4 +7,5 @@
 * [Installation Stéréo simple](/03-savoirs/02/01/01-stereo/)
 * [Installation Stéréo simple et controlleur midi](/03-savoirs/02/01/02-stereo-midi/)
 * [Installation Stéréo simple et controlleur midi](/03-savoirs/02/01/03-stereo-micro-midi/)
+* [Instruments et effets Libre](/03-savoirs/02/01/99-audiofx/)
 <!-- end-replace-subnav -->

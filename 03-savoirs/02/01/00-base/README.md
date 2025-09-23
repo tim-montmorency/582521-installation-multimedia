@@ -27,6 +27,11 @@ Les pilotes définissent comment le système d’exploitation communique avec la
 
 👉 **Recommandation** : toujours prioriser **ASIO** lorsqu’il est disponible.
 
+### Sélection driver audio ASIO
+
+* Carte de son Behringer = ASIO UMC audio driver   
+
+
 ---
 
 ## Audio numérique et analogique
@@ -201,3 +206,7 @@ Une **DI passive** permet :
   * Compressés avec perte : MP3, AAC.
 
 
+
+## Références
+
+* https://ehomerecordingstudio.com/audio-cable-types/

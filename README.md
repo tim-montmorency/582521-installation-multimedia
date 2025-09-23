@@ -56,6 +56,7 @@
             * [Installation Stéréo simple](/03-savoirs/02/01/01-stereo/)
             * [Installation Stéréo simple et controlleur midi](/03-savoirs/02/01/02-stereo-midi/)
             * [Installation Stéréo simple et controlleur midi](/03-savoirs/02/01/03-stereo-micro-midi/)
+            * [Instruments et effets Libre](/03-savoirs/02/01/99-audiofx/)
         * [Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)](/03-savoirs/02/02/)
             * [Protocole MIDI ](/03-savoirs/02/02/01-controlleur-midi/)
         * [Positionnement de haut-parleurs dans une installation spatialisant le son](/03-savoirs/02/03/)
