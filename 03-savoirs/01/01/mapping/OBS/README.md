@@ -1,19 +1,19 @@
 # OBS 
 
-* Edge-blending et cornerpin via LUA
-
-[projection mapping Lua script](https://codeberg.org/gllm/obs-lua-projection-mapping) 
+* [Projection Mapping dans OBS avec LUA](https://codeberg.org/gllm/obs-lua-projection-mapping) 
 
 ## Installation 
 
 * Télécharger et décompresser le [repository](https://codeberg.org/gllm/obs-lua-projection-mapping/archive/main.zip) 
 
-* Installer via tool->Script  
+* Lancer l'application OBS
 
-* ![Accéder aux s](image.png)
+* Ouvrir tool->Script  
+
+* ![Ouvrir tool->Script  ](image.png)
 
 
-* ![alt text](image-1.png)
+* ![Dans Script](image-1.png)
 
 
-* ![alt text](image-2.png)
+* ![Naviguer jusqu'à projection-mapping-bundle.lua et valider](image-2.png)
