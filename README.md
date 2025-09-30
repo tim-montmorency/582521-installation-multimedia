@@ -60,6 +60,7 @@
             * [Instruments et effets Libre](/03-savoirs/02/01/99-audiofx/)
         * [Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)](/03-savoirs/02/02/)
             * [Protocole MIDI ](/03-savoirs/02/02/01-controlleur-midi/)
+            * [Loopmidi](/03-savoirs/02/02/02-loopmidi/)
         * [Positionnement de haut-parleurs dans une installation spatialisant le son](/03-savoirs/02/03/)
         * [Intégration des médias pour la spatialisation sonore](/03-savoirs/02/04/)
         * [Optimisation des médias pour la spatialisation sonore](/03-savoirs/02/05/)

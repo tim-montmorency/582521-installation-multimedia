@@ -4,4 +4,5 @@
 
 <!-- start-replace-subnav -->
 * [Protocole MIDI ](/03-savoirs/02/02/01-controlleur-midi/)
+* [Loopmidi](/03-savoirs/02/02/02-loopmidi/)
 <!-- end-replace-subnav -->
