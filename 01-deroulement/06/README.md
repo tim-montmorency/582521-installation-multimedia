@@ -12,4 +12,5 @@
 
 ## Activités en classe
 
-* Déploiement d'une installation sonore interactive
+* [Déploiement d'une installation sonore interactive](../../03-savoirs/02/01/04-stereo-midi-projo/)
+

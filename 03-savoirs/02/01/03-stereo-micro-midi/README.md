@@ -1,4 +1,4 @@
-# Installation Stéréo simple et controlleur midi
+# Installation Stéréo + midi + micro
 
 ```mermaid
 graph LR
