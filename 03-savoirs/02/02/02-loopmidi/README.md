@@ -75,10 +75,17 @@
 
 ---
 
-## Check-list express
+## Check-list 
 
 * [ ] Port loopMIDI créé (`REAPER_to_TD`)
 * [ ] REAPER : output **Enabled** (+ **Send clock** si requis)
 * [ ] Piste REAPER : **I/O → MIDI Hardware Output** sur ce port
 * [ ] TD : **MIDI In CHOP** sur le même port, actif
 * [ ] Pas de boucle (ports aller/retour séparés)
+
+
+## Ressources 
+
+* https://derivative.ca/UserGuide/MIDI_Mapper_Dialog
+* https://derivative.ca/UserGuide/MIDI
+* https://matthewragan.com/2019/05/25/touchdesigner-virtual-midi-devices/
