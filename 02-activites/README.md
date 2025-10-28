@@ -5,4 +5,5 @@
 * [TP2 <!-- %: BLOC2 -->Diffusion audio spatialisée<!-- %; -->](/02-activites/02/)
 * [TP3 <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->](/02-activites/03/)
 * [<!-- %: BLOC4 -->Installation multimédia<!-- %; -->](/02-activites/04/)
+* [Portes Ouvertes](/02-activites/portes-ouvertes/)
 <!-- end-replace-subnav -->

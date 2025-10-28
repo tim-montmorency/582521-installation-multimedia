@@ -1,7 +1,7 @@
 # EVF TP 3 - <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->
 
  <!-- %: SEANCE_EVF_3 -->
-[S10](../../../01-deroulement/10/)
+[S11](../../../01-deroulement/11/)
  <!-- %; -->
  
 ## Description

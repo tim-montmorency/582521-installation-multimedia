@@ -2,13 +2,14 @@
 
 ## À préparer avant la classe
 
-* [Conceptualiser le projet intégrateur](../../02-activites/04/)
+* [ EVS3 <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->](../../04-evaluations/sommatives/03/)
+
 
 ## Savoirs essentiels/Contenus
 
-* [ <!-- %: BLOC4_SAVOIR1  --># Optimiser l'intégration de médias pour la projection vidéo architecturale.<!-- %; -->](../../03-savoirs/04/01/)
-
+* [ <!-- %: BLOC3_SAVOIR8  --># Archivage du produit multimédia<!-- %; -->](../../03-savoirs/03/08/)
 
 ## Activités en classe
 
-* [Travail sur le projet intégrateur](../../02-activites/04/)
+* [ EVS3 <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->](../../04-evaluations/sommatives/03/)
+

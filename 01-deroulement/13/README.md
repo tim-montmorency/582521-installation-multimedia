@@ -6,6 +6,8 @@
 
 ## Savoirs essentiels/Contenus
 
+* [ <!-- %: BLOC4_SAVOIR1  --># Optimiser l'intégration de médias pour la projection vidéo architecturale.<!-- %; -->](../../03-savoirs/04/01/)
+
 * [ <!-- %: BLOC4_SAVOIR2  --># Optimiser l'intégration de médias pour la conception de lumière scénique<!-- %; -->](../../03-savoirs/04/03/README.md)
 
 ## Activités en classe
