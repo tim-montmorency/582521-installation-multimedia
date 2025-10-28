@@ -28,26 +28,20 @@
 
 #### Lien vers des patchs PlugData
 
-[Patch Plugdata LFO](https://raw.githubusercontent.com/tim-montmorency/582513-conception/main/activites/lx_midi_map/plugdata-lfo-ctl.pd.zip) 
+[Patch Plugdata LFO](./plugdata-lfo-ctl.pd) 
 
-[Patch Plugdata Analyse](https://raw.githubusercontent.com/tim-montmorency/582513-conception/main/activites/lx_midi_map/analyse_audio.pd.zip) 
-
-#### Lien relatifs
-
-[Patch Plugdata lfo](plugdata-lfo-ctl.pd)
-
-[Patch Plugdata Analyse](analyse_audio.pd)
+[Patch Plugdata Analyse](./analyse_audio.pd) 
 
 
 ### Configuration QLC 
 
 #### Entrée midi
 
-![alt text](image-2.png)
+![Entrée Midi dans QLC](image-2.png)
 
 #### midi mapping 
 
-![alt text](image-1.png)
+![Assignation Midi dans QLC](image-1.png)
 
 
 ### Reaper
@@ -56,26 +50,26 @@ Créer des courbe d'automation MIDI et les envoyer à QLC
 
 #### Créer un élément MIDI 
 
-![alt text](image-6.png)
+* ![Créer en élément midi dans REAPER](image-6.png)
 
-![alt text](image-7.png)
+* ![Résultat de la création d'un élément midi dans REAPER](image-7.png)
 
 #### Double cliquer l'élément midi pour éditer
 
-![alt text](image-8.png)
+![Éditer l'élément midi](image-8.png)
 
 #### Ajouter des piste de CC via le petit +
 
-![alt text](image-9.png)
+![Ajouter des CC dans le clip midi](image-9.png)
 
 #### Dessiner des courbes expressives
 
-![alt text](image-10.png)
+![Dessiner des courbes expressives](image-10.png)
 
 #### Via le bouton *Route*
 
-![alt text](image-11.png)
+![Appuyer sur Route](image-11.png)
 
 #### Sélectionner un *Midi Hardware output* sortie midi 
 
-![alt text](image-12.png)
+![Sortir le midi dans la sortie adéquate](image-12.png)

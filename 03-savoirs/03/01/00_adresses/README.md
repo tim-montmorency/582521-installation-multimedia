@@ -16,17 +16,6 @@ Le DMX (DMX512) est un protocole série standard pour le contrôle d'éclairages
 
 Pour des contrôles bidirectionnels (statut, configuration), DMX peut être étendu avec RDM (Remote Device Management). Pour des installations complexes, gérer plusieurs univers via une interface multicœur ou un routeur DMX.
 
-## Mermaid packet-beta
-```mermaid
----
-title: "Addresses DMX "
----
-packet-beta
-0: "" %% packet-beta doit partir à 0 
-1-6: "Lampe ADJ 5p HEX (RGBWAU)"
-7-9: "Elypso"
-10-16: "Lampe ADJ 5p HEX (RGBWAU)"
-```
 
 ## Via mermaid gantt
 
