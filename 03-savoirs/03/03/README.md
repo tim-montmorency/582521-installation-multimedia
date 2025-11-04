@@ -5,5 +5,4 @@
 <!-- start-replace-subnav depth=1 -->
 * [QLC+](/03-savoirs/03/03/00_QLCplus/)
 * [Assignation Midi](/03-savoirs/03/03/1_lx_midi_map/)
-* [HyperHDR](/03-savoirs/03/03/99_hyperhdr/)
 <!-- end-replace-subnav -->
