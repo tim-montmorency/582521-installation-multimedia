@@ -13,6 +13,8 @@
 Réaliser une installation multimédia à grande échelle sur mesure.
 <!-- %; -->
 
+[Description détaillée](../../../02-activites/04/) 
+
 #### Forme de l'évaluation
 
 * [x] Individuel

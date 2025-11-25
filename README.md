@@ -34,6 +34,7 @@
     * [TP2 <!-- %: BLOC2 -->Diffusion audio spatialisée<!-- %; -->](/02-activites/02/)
     * [TP3 <!-- %: BLOC3 -->Installation lumières adressables<!-- %; -->](/02-activites/03/)
     * [<!-- %: BLOC4 -->Installation multimédia<!-- %; -->](/02-activites/04/)
+        * [Schéma de branchements](/02-activites/04/branchements/)
     * [Portes Ouvertes](/02-activites/portes-ouvertes/)
 * [Savoirs](/03-savoirs/)
     * [Savoirs 1 : <!-- %: BLOC1 -->Projection vidéo architecturale<!-- %; -->](/03-savoirs/01/)
