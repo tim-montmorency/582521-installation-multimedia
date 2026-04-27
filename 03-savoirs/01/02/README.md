@@ -52,3 +52,13 @@
 ## Cas pratique
 
 * [Projection sur la place bell](../../../02-activites/projection-halloween/place-bell/)
+
+## Ressources 
+
+### Calcule de projection
+
+* https://www.projectorcentral.com/projection-calculator-pro.cfm
+
+
+### DLP
+* https://www.ivojo.co.uk/articles.php?h=projector-tech
