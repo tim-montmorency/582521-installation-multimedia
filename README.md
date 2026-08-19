@@ -1,5 +1,9 @@
 # <!-- %: COURS  -->582521 Installation Multimédia<!-- %; -->
 
+> [!WARNING]
+> **Cours migré** — ce dépôt n'est plus actif. Le cours 2026 est sur
+> Codeberg : [582521-2026-installation-multimedia](https://codeberg.org/tim-montmorency/582521-2026-installation-multimedia).
+
 --- 
 * Pondérations: <!-- %: PONDERATION  -->2-2-2<!-- %; -->
 * Heures d'enseigment: <!-- %: HEURES_ENSEIGNEMENT  -->60<!-- %; -->
